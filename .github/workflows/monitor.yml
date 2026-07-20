@@ -1,0 +1,21 @@
+name: Vergaderstukken Laren
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 6 1 * *'
+permissions:
+  contents: write
+jobs:
+  ophalen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Stukken ophalen
+        run: python3 scripts/monitor.py
+      - name: Overzicht opslaan in de repo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add overzicht.md
+          git commit -m "Overzicht bijgewerkt" || echo "Niets te committen"
+          git push
