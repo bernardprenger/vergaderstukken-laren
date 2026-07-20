@@ -5,7 +5,6 @@ from pathlib import Path
 
 BASIS = "https://laren.bestuurlijkeinformatie.nl"
 
-# Ingang per onderdeel. Elke pagina bevat in het zijmenu de vergaderingen.
 CATEGORIEEN = {
     "Raadsvergadering": "/Calendar/OpenCategory/10002003",
     "Commissie R&I": "/Calendar/OpenCategory/10002008",
@@ -37,14 +36,21 @@ def volledige_url(url):
 
 
 def vind_links(html, patroon):
-    resultaat = []
-    patroon_regex = r'<a\b[^>]?href=["\']([^"\']+)["\'][^>]>(.*?)</a>'
-    for m in re.finditer(patroon_regex, html, re.S):
-        url, tekst = m.group(1), m.group(2)
-        if patroon in url:
-            tekst = re.sub(r"<[^>]+>", "", tekst)
+    resultaat, gezien = [], set()
+    # Pas 1: link mét bijbehorende tekst (mooie bestandsnamen).
+    for m in re.finditer(r'href=["\']([^"\']+)["\'][^>]>(.?)</a>', html, re.S):
+        url = m.group(1)
+        if patroon in url and url not in gezien:
+            tekst = re.sub(r"<[^>]+>", "", m.group(2))
             tekst = re.sub(r"\s+", " ", tekst).strip()
-            resultaat.append((volledige_url(url), tekst))
+            resultaat.append((volledige_url(url), tekst or url))
+            gezien.add(url)
+    # Pas 2: vangnet - alle overige links met dit patroon (url als naam).
+    for m in re.finditer(r'href=["\']([^"\']+)["\']', html):
+        url = m.group(1)
+        if patroon in url and url not in gezien:
+            resultaat.append((volledige_url(url), url))
+            gezien.add(url)
     return resultaat
 
 
@@ -71,13 +77,11 @@ for naam, pad in CATEGORIEEN.items():
         regels += [f"## {naam}", f"Kon onderdeel niet ophalen: {fout}", ""]
         continue
 
-    # Vergaderingen uit het zijmenu die binnen het tijdvenster vallen.
     te_doen = {}
     for url, tekst in vind_links(pagina, "/Agenda/Index/"):
         d = lees_datum(tekst)
         if d and VANAF <= d <= TOT:
             te_doen[url] = f"{naam} - {tekst}"
-    # Zorg dat de eerstvolgende vergadering er sowieso bij zit.
     if eind_url not in te_doen:
         te_doen[eind_url] = f"{naam} - eerstvolgende vergadering"
 
