@@ -4,58 +4,40 @@ from datetime import date
 from pathlib import Path
 
 BASIS = "https://laren.bestuurlijkeinformatie.nl"
+PAD = "/Agenda/Index/7901ac75-d0fc-410f-ad19-3ab7595d4c64"  # R&I 10 juni 2026
+KOP = {"User-Agent": "Mozilla/5.0 (monitor Laren)"}
 
-# TEST: drie bekende vergaderingen van juni 2026 die documenten horen te hebben.
-VERGADERINGEN = {
-    "Raadsvergadering 3 juni 2026":
-        "/Agenda/Index/e367e587-f980-496a-b166-857485b55527",
-    "Commissie R&I 10 juni 2026":
-        "/Agenda/Index/7901ac75-d0fc-410f-ad19-3ab7595d4c64",
-    "Commissie M&F 17 juni 2026":
-        "/Agenda/Index/ad4efda1-447c-492a-9e83-aa6246d576f6",
-}
+verzoek = urllib.request.Request(BASIS + PAD, headers=KOP)
+with urllib.request.urlopen(verzoek, timeout=60) as antwoord:
+    html = antwoord.read().decode("utf-8", errors="replace")
 
-KOP = {"User-Agent": "Mozilla/5.0 (monitor vergaderstukken Laren)"}
+regels = [f"# Diagnose R&I 10 juni - {date.today()}", ""]
+regels.append(f"Paginagrootte: {len(html)} tekens")
+regels.append("")
 
+# Hoe vaak komen bepaalde woorden voor?
+for woord in ["Agenda/Document", "Agenda/Index", "documentId",
+              "downloadDocument", "ashx", "Bijlage", ".pdf", ".docx"]:
+    regels.append(f"'{woord}' komt {html.count(woord)} keer voor")
 
-def haal_pagina(url):
-    verzoek = urllib.request.Request(url, headers=KOP)
-    with urllib.request.urlopen(verzoek, timeout=60) as antwoord:
-        return antwoord.read().decode("utf-8", errors="replace")
+# Alle href-waarden verzamelen (dubbele of enkele aanhalingstekens)
+hrefs = re.findall(r'href=["\']([^"\']+)["\']', html)
+regels.append("")
+regels.append(f"Totaal aantal href-links: {len(hrefs)}")
 
+# Links die met documenten te maken lijken te hebben
+sleutels = ["ocument", "ownload", ".pdf", ".docx", "ashx", "File", "ijlage"]
+doclinks = sorted({h for h in hrefs if any(s in h for s in sleutels)})
+regels.append("")
+regels.append(f"Mogelijke documentlinks ({len(doclinks)}):")
+for h in doclinks[:30]:
+    regels.append(f"- {h}")
 
-def volledige_url(url):
-    return url if url.startswith("http") else BASIS + url
-
-
-def vind_links(html, patroon):
-    resultaat = []
-    for m in re.finditer(r'<a[^>]+href="([^"]+)"[^>]>(.?)</a>', html, re.S):
-        url, tekst = m.group(1), m.group(2)
-        if patroon in url:
-            tekst = re.sub(r"<[^>]+>", "", tekst)
-            tekst = re.sub(r"\s+", " ", tekst).strip()
-            resultaat.append((volledige_url(url), tekst))
-    return resultaat
-
-
-regels = [f"# TEST - Vergaderstukken Laren - {date.today()}", ""]
-
-for naam, pad in VERGADERINGEN.items():
-    regels += [f"## {naam}", f"[Agenda openen]({volledige_url(pad)})", ""]
-    try:
-        html = haal_pagina(volledige_url(pad))
-    except Exception as fout:
-        regels += [f"Kon pagina niet ophalen: {fout}", ""]
-        continue
-    documenten = vind_links(html, "/Agenda/Document/")
-    regels.append(
-        f"_(diagnose: pagina is {len(html)} tekens groot, "
-        f"{len(documenten)} documentlinks gevonden)_"
-    )
-    for doc_url, doc_tekst in documenten:
-        regels.append(f"- [{doc_tekst}]({doc_url})")
-    regels.append("")
+# Eerste 30 unieke links, om het algemene patroon te zien
+regels.append("")
+regels.append("Eerste 30 unieke links:")
+for h in sorted(set(hrefs))[:30]:
+    regels.append(f"- {h}")
 
 Path("overzicht.md").write_text("\n".join(regels), encoding="utf-8")
 print("Klaar.")
