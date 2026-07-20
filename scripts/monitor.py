@@ -33,19 +33,20 @@ def haal_titel(html):
     return re.split(r"(?i)\s*[-|]\s*iBabs", t)[0].strip()
 
 
-def titel_voor_link(html, pos):
-    # pak de laatste zinvolle tekst vlak vóór de link
+def titel_bij_link(html, pos):
+    # laatste zinvolle tekst vlak vóór de link
     stuk = html[max(0, pos - 600):pos].replace("&amp;", "&")
     for frag in reversed(re.split(r"<[^>]+>", stuk)):
         frag = re.sub(r"\s+", " ", frag).strip()
-        if len(frag) >= 4 and not re.fullmatch(r"[\d.,]+\s?[kKmMgG]?B", frag):
+        if len(frag) >= 5 and not re.fullmatch(r"[\d.,]+\s?[kKmMgG]?B", frag):
             return frag
     return None
 
 
 def vind_documenten(html):
+    # BEWEZEN manier: alleen op href zoeken (niet op volledige <a>...</a>)
     resultaat, gezien = [], set()
-    for m in re.finditer(r'href=["\']([^"\']+)["\'][^>]>(.?)</a>', html, re.S):
+    for m in re.finditer(r'href=["\']([^"\']+)["\']', html):
         url = m.group(1)
         if "/Agenda/Document/" not in url:
             continue
@@ -53,15 +54,13 @@ def vind_documenten(html):
         if vol in gezien:
             continue
         gezien.add(vol)
-        naam = re.sub(r"<[^>]+>", "", m.group(2))
-        naam = re.sub(r"\s+", " ", naam).strip()
-        if len(naam) < 4:                       # link bevat alleen een icoon
-            naam = titel_voor_link(html, m.start()) or "Document"
+        naam = titel_bij_link(html, m.start()) or "Document"
         resultaat.append((vol, naam))
     return resultaat
 
 
 regels = [f"# Vergaderstukken Laren - opgehaald op {date.today()}", ""]
+diagnose = ""
 
 for onderdeel, pad in CATEGORIEEN.items():
     try:
@@ -81,6 +80,21 @@ for onderdeel, pad in CATEGORIEEN.items():
     for doc_url, doc_naam in documenten:
         regels.append(f"- [{doc_naam}]({doc_url})")
     regels.append("")
+
+    # bewaar eenmalig een stukje ruwe HTML rond de eerste documentlink
+    if not diagnose:
+        p = pagina.find("/Agenda/Document/")
+        if p != -1:
+            diagnose = pagina[max(0, p - 700):p + 200]
+
+if diagnose:
+    regels += [
+        "---",
+        "### technische info (negeer dit tenzij de titels niet kloppen)",
+        "",
+        diagnose,
+        "",
+    ]
 
 Path("overzicht.md").write_text("\n".join(regels), encoding="utf-8")
 print("Klaar.")
