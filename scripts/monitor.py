@@ -1,43 +1,104 @@
 import re
 import urllib.request
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 
 BASIS = "https://laren.bestuurlijkeinformatie.nl"
-PAD = "/Agenda/Index/7901ac75-d0fc-410f-ad19-3ab7595d4c64"  # R&I 10 juni 2026
-KOP = {"User-Agent": "Mozilla/5.0 (monitor Laren)"}
 
-verzoek = urllib.request.Request(BASIS + PAD, headers=KOP)
-with urllib.request.urlopen(verzoek, timeout=60) as antwoord:
-    html = antwoord.read().decode("utf-8", errors="replace")
+# Ingang per onderdeel. Elke pagina bevat in het zijmenu de vergaderingen.
+CATEGORIEEN = {
+    "Raadsvergadering": "/Calendar/OpenCategory/10002003",
+    "Commissie R&I": "/Calendar/OpenCategory/10002008",
+    "Commissie M&F": "/Calendar/OpenCategory/10002007",
+}
 
-regels = [f"# Diagnose R&I 10 juni - {date.today()}", ""]
-regels.append(f"Paginagrootte: {len(html)} tekens")
-regels.append("")
+# Tijdvenster: afgelopen 75 dagen t/m komende 90 dagen.
+VANAF = date.today() - timedelta(days=75)
+TOT = date.today() + timedelta(days=90)
 
-# Hoe vaak komen bepaalde woorden voor?
-for woord in ["Agenda/Document", "Agenda/Index", "documentId",
-              "downloadDocument", "ashx", "Bijlage", ".pdf", ".docx"]:
-    regels.append(f"'{woord}' komt {html.count(woord)} keer voor")
+MAANDEN = {
+    "januari": 1, "februari": 2, "maart": 3, "april": 4, "mei": 5, "juni": 6,
+    "juli": 7, "augustus": 8, "september": 9, "oktober": 10,
+    "november": 11, "december": 12,
+}
 
-# Alle href-waarden verzamelen (dubbele of enkele aanhalingstekens)
-hrefs = re.findall(r'href=["\']([^"\']+)["\']', html)
-regels.append("")
-regels.append(f"Totaal aantal href-links: {len(hrefs)}")
+KOP = {"User-Agent": "Mozilla/5.0 (monitor vergaderstukken Laren)"}
 
-# Links die met documenten te maken lijken te hebben
-sleutels = ["ocument", "ownload", ".pdf", ".docx", "ashx", "File", "ijlage"]
-doclinks = sorted({h for h in hrefs if any(s in h for s in sleutels)})
-regels.append("")
-regels.append(f"Mogelijke documentlinks ({len(doclinks)}):")
-for h in doclinks[:30]:
-    regels.append(f"- {h}")
 
-# Eerste 30 unieke links, om het algemene patroon te zien
-regels.append("")
-regels.append("Eerste 30 unieke links:")
-for h in sorted(set(hrefs))[:30]:
-    regels.append(f"- {h}")
+def haal_pagina(url):
+    verzoek = urllib.request.Request(url, headers=KOP)
+    with urllib.request.urlopen(verzoek, timeout=60) as antwoord:
+        return antwoord.geturl(), antwoord.read().decode("utf-8", errors="replace")
+
+
+def volledige_url(url):
+    url = url.replace("&amp;", "&")
+    return url if url.startswith("http") else BASIS + url
+
+
+def vind_links(html, patroon):
+    resultaat = []
+    patroon_regex = r'<a\b[^>]?href=["\']([^"\']+)["\'][^>]>(.*?)</a>'
+    for m in re.finditer(patroon_regex, html, re.S):
+        url, tekst = m.group(1), m.group(2)
+        if patroon in url:
+            tekst = re.sub(r"<[^>]+>", "", tekst)
+            tekst = re.sub(r"\s+", " ", tekst).strip()
+            resultaat.append((volledige_url(url), tekst))
+    return resultaat
+
+
+def lees_datum(tekst):
+    m = re.search(r"(\d{1,2})\s+([a-z]+)\s+(\d{4})", tekst.lower())
+    if not m:
+        return None
+    maand = MAANDEN.get(m.group(2))
+    if not maand:
+        return None
+    try:
+        return date(int(m.group(3)), maand, int(m.group(1)))
+    except ValueError:
+        return None
+
+
+regels = [f"# Vergaderstukken Laren - opgehaald op {date.today()}", ""]
+aantal = 0
+
+for naam, pad in CATEGORIEEN.items():
+    try:
+        eind_url, pagina = haal_pagina(BASIS + pad)
+    except Exception as fout:
+        regels += [f"## {naam}", f"Kon onderdeel niet ophalen: {fout}", ""]
+        continue
+
+    # Vergaderingen uit het zijmenu die binnen het tijdvenster vallen.
+    te_doen = {}
+    for url, tekst in vind_links(pagina, "/Agenda/Index/"):
+        d = lees_datum(tekst)
+        if d and VANAF <= d <= TOT:
+            te_doen[url] = f"{naam} - {tekst}"
+    # Zorg dat de eerstvolgende vergadering er sowieso bij zit.
+    if eind_url not in te_doen:
+        te_doen[eind_url] = f"{naam} - eerstvolgende vergadering"
+
+    for url, label in te_doen.items():
+        aantal += 1
+        regels += [f"## {label}", f"[Agenda openen]({url})", ""]
+        try:
+            _, agenda = haal_pagina(url)
+        except Exception as fout:
+            regels += [f"Kon agenda niet ophalen: {fout}", ""]
+            continue
+        documenten = vind_links(agenda, "/Agenda/Document/")
+        if documenten:
+            for doc_url, doc_tekst in documenten:
+                regels.append(f"- [{doc_tekst}]({doc_url})")
+        else:
+            regels.append("Nog geen documenten gepubliceerd.")
+        regels.append("")
+
+if aantal == 0:
+    regels.append("Geen vergaderingen gevonden in het tijdvenster.")
 
 Path("overzicht.md").write_text("\n".join(regels), encoding="utf-8")
-print("Klaar.")
+print("Klaar. Aantal vergaderingen verwerkt:", aantal)
