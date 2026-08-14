@@ -1,4 +1,4 @@
-# Vergaderstukken Laren - opgehaald op 2026-08-13
+# Vergaderstukken Laren - opgehaald op 2026-08-14
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren woensdag 30 september 2026 20:00 - 22:00
 [Agenda op het portaal](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/b1599b19-828f-4ed0-9b05-1b4aa25271f0)
@@ -39,8 +39,11 @@
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/d6134e00-d90b-4482-a08b-6d5cb8fdbebd)
 - [RV Benoeming wethouders in het Algemeen bestuur van de Regio Gooi en Vechtstreek](https://laren.bestuurlijkeinformatie.nl/Document/View/56c3bf72-a898-4570-abec-cffbf9c00bd7)
 
-## Commissie R&I
-Kon niet ophalen: The read operation timed out (vorige stand behouden)
+## Commissie R&I - Agenda laren - Commissie R&I woensdag 16 september 2026 20:00 - 22:00
+[Agenda op het portaal](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/cf0cd507-4e4a-461c-bf42-e0cef30de56a)
+
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/a6b09e91-29ed-4436-a831-7efe98c5fe43)
+- [Lijst van adviezen commissie R&I 10 juni 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/95f9ce96-bc36-47d9-8fc1-b92cb2bb908e)
 
 ## Commissie M&F - Agenda laren - Commissie M&F woensdag 23 september 2026 20:00 - 22:00
 [Agenda op het portaal](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/95bd0e23-32ee-4e9b-b6eb-d26297e7f4d8)
