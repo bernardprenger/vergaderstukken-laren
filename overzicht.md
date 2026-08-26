@@ -1,11 +1,11 @@
-# Vergaderstukken Laren - opgehaald op 2026-08-25
+# Vergaderstukken Laren - opgehaald op 2026-08-26
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren woensdag 30 september 2026 20:00 - 22:00
 [Agenda op het portaal](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/b1599b19-828f-4ed0-9b05-1b4aa25271f0)
 
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/e5ed02b7-14ee-45c1-927a-c4cb5bfabadb)
 - [Besluitenlijst openbare raadsvergadering 8 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/b3745ef6-5901-4c64-a990-e3dcda760909)
-- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/1a8be181-29b5-4bce-9f5d-2f33dc688dc0)
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/659b85d0-2d98-4f33-b45c-45a87c590fd3) *(nieuw)*
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/7c45ef35-ecfd-4328-aa51-25e8890e6194)
 - [A.1 RIB Beoordeling interbestuurlijk toezicht informatie- en archiefbeheer 2024-2025](https://laren.bestuurlijkeinformatie.nl/Document/View/c4cdee5e-bfb8-4456-8dd2-cb8acefc420a)
 - [A.1.1 BIJLAGE - Beoordeling Interbestuurlijk Toezicht Informatie- en Archiefbeheer 2024-2025](https://laren.bestuurlijkeinformatie.nl/Document/View/3078449b-54a2-40a5-9c13-34f140b5d4ff)
@@ -40,6 +40,7 @@
 - [C.1 Provincie NH – brief over Gemeenschappelijk Financieel Toezichtkader 2026 gemeenten](https://laren.bestuurlijkeinformatie.nl/Document/View/7269e2e5-3001-4174-ab44-1c76b12edafb)
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/15ea9110-e3f2-43fd-9425-0c4509f666c0)
 - [D.1 Inwoners - klacht communicatie en voortgang project reconstructie Eemnesserweg-West](https://laren.bestuurlijkeinformatie.nl/Document/View/6d72ebf6-d595-4a59-afb6-38ec1ecf0b36)
+- [D.2 LB - schriftelijke vragen Artikel Honderden huishoudens in BEL-gemeenten kampen met energiearmoede](https://laren.bestuurlijkeinformatie.nl/Document/View/80f83637-726d-446c-a6dc-f9dead0008d2) *(nieuw)*
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/d6134e00-d90b-4482-a08b-6d5cb8fdbebd)
 - [RV Benoeming wethouders in het Algemeen bestuur van de Regio Gooi en Vechtstreek](https://laren.bestuurlijkeinformatie.nl/Document/View/56c3bf72-a898-4570-abec-cffbf9c00bd7)
 
