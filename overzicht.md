@@ -1,11 +1,11 @@
-# Vergaderstukken Laren - opgehaald op 2026-09-08
+# Vergaderstukken Laren - opgehaald op 2026-09-09
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren woensdag 30 september 2026 20:00 - 22:00
 [Agenda op het portaal](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/b1599b19-828f-4ed0-9b05-1b4aa25271f0)
 
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/e5ed02b7-14ee-45c1-927a-c4cb5bfabadb)
 - [Besluitenlijst openbare raadsvergadering 8 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/b3745ef6-5901-4c64-a990-e3dcda760909)
-- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/62fd3e06-4821-4b8e-9ac6-edca1adf2d28) *(nieuw)*
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/07063dd6-98e2-4cb0-aed2-d315052b8495) *(nieuw)*
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/7c45ef35-ecfd-4328-aa51-25e8890e6194)
 - [A.1 RIB Beoordeling interbestuurlijk toezicht informatie- en archiefbeheer 2024-2025](https://laren.bestuurlijkeinformatie.nl/Document/View/c4cdee5e-bfb8-4456-8dd2-cb8acefc420a)
 - [A.1.1 BIJLAGE - Beoordeling Interbestuurlijk Toezicht Informatie- en Archiefbeheer 2024-2025](https://laren.bestuurlijkeinformatie.nl/Document/View/3078449b-54a2-40a5-9c13-34f140b5d4ff)
@@ -20,8 +20,8 @@
 - [A.7.1 BIJLAGE - Begeleidende brief bij jaarverslag Wmo-toezicht 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/53b4e95f-333a-4b14-ab74-dc61c2910bde)
 - [A.7.2 BIJLAGE - Jaarverslag Wmo-toezicht 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/0bf9e730-9e4a-46b8-910f-d55c6067f8e8)
 - [A.8 RIB Toekenning subsidie Dynamic Arts 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/bae2c79e-3fb6-4903-b7ad-619cbf0839ec)
-- [A.9 RIB Verbeteren zebrapaden](https://laren.bestuurlijkeinformatie.nl/Document/View/93655ef7-0b21-4ff4-a878-9f17eed314ba) *(nieuw)*
-- [A.9.1 BIJLAGE - M.1 Veiligheid zebrapaden in Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/3e0ed5d3-1b87-4e03-8e0c-f064e8b9b379) *(nieuw)*
+- [A.9 RIB Verbeteren zebrapaden](https://laren.bestuurlijkeinformatie.nl/Document/View/93655ef7-0b21-4ff4-a878-9f17eed314ba)
+- [A.9.1 BIJLAGE - M.1 Veiligheid zebrapaden in Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/3e0ed5d3-1b87-4e03-8e0c-f064e8b9b379)
 - [A.9.2 BIJLAGE - Onderzoek veiligheid zebrapaden Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/430a278b-d708-4770-9180-9aa12ad6e3ad)
 - [A.10 RIB Netcongestie en beleidsregels Eerder Aanvragen transportcapaciteit](https://laren.bestuurlijkeinformatie.nl/Document/View/2b820dde-ba90-4102-81e0-06d9f0ce0418)
 - [A.10.1 BIJLAGE - Beleidsregels gemeentelijke prioritering transportcapaciteit Blaricum-Eemnes-Laren 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/afe92ab6-d744-470a-8b7c-52be167d4a17)
@@ -29,13 +29,13 @@
 - [A.11.1 BIJLAGE - Jaarrapportage ADV(Versa Welzijn) 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/a2f9d049-2341-412b-8ec4-66e4266ed3a9)
 - [A.12 RIB Laadpalen Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/e01865b1-37d5-4b21-952f-b55d6d7df82a)
 - [A.13 RIB Beantwoording schriftelijke vragen Larens Behoud ten aanzien van energiearmoede](https://laren.bestuurlijkeinformatie.nl/Document/View/9692b2bb-0d2c-4d60-bcbc-700f552b934a)
-- [A.13.1 BIJLAGE -LB schriftelijke vragen nav artikel Honderden huishoudens ... energiearmoede](https://laren.bestuurlijkeinformatie.nl/Document/View/205d7a63-11b6-4c9f-bef9-faa796966fa2) *(nieuw)*
-- [A.14 RIB terugkoppeling BEL Bestuur mei en juni 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/ba78a34f-e037-4bc7-921b-045c0c9abd93) *(nieuw)*
-- [A.15 RIB Veiligheidscijfers januari - juni 2026 gemeente Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/301fab28-efeb-44c7-8750-73d93731ddac) *(nieuw)*
-- [A.16 RIB Beleid externe veiligheid gemeente Laren 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/4513bbd6-c7f1-4c47-94df-ee538cc54082) *(nieuw)*
-- [A.16.1 BIJLAGE - Overzicht uitgangspunten kwetsbare functies nabij risicovolle activiteiten](https://laren.bestuurlijkeinformatie.nl/Document/View/ea6e9d4a-0205-4830-9f22-73e3916e0393) *(nieuw)*
-- [A.16.2 BIJLAGE - Beleidsnota externe veiligheid Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/2322b69a-8189-465c-b363-f99f55fa063f) *(nieuw)*
-- [A.17 RIB Definitieve locatie voor de beeldengroep De Klepperman van Elleven](https://laren.bestuurlijkeinformatie.nl/Document/View/ce5fd25c-0eb1-403e-a545-1fc95c6b438a) *(nieuw)*
+- [A.13.1 BIJLAGE -LB schriftelijke vragen nav artikel Honderden huishoudens ... energiearmoede](https://laren.bestuurlijkeinformatie.nl/Document/View/205d7a63-11b6-4c9f-bef9-faa796966fa2)
+- [A.14 RIB terugkoppeling BEL Bestuur mei en juni 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/ba78a34f-e037-4bc7-921b-045c0c9abd93)
+- [A.15 RIB Veiligheidscijfers januari - juni 2026 gemeente Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/301fab28-efeb-44c7-8750-73d93731ddac)
+- [A.16 RIB Beleid externe veiligheid gemeente Laren 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/4513bbd6-c7f1-4c47-94df-ee538cc54082)
+- [A.16.1 BIJLAGE - Overzicht uitgangspunten kwetsbare functies nabij risicovolle activiteiten](https://laren.bestuurlijkeinformatie.nl/Document/View/ea6e9d4a-0205-4830-9f22-73e3916e0393)
+- [A.16.2 BIJLAGE - Beleidsnota externe veiligheid Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/2322b69a-8189-465c-b363-f99f55fa063f)
+- [A.17 RIB Definitieve locatie voor de beeldengroep De Klepperman van Elleven](https://laren.bestuurlijkeinformatie.nl/Document/View/ce5fd25c-0eb1-403e-a545-1fc95c6b438a)
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/78914ad5-d53e-471d-b824-3e9ca0ac1a3e)
 - [B.1 MRA - Jaarverslag 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/0f4efb53-9425-46cf-9b0c-779596365544)
 - [B.1.1 BIJLAGE - Nota van Beantwoording Jaarverslag 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/ad656270-bfcf-4128-8e00-d21b684ca2ee)
@@ -51,12 +51,15 @@
 - [B.7 VRGV - aanbiedingsbrief vaststelling PGB 2027 en meerjarenraming 2028-2030](https://laren.bestuurlijkeinformatie.nl/Document/View/7a39a04d-eaa4-413e-89f2-c94e2595cc4a)
 - [B.7.1 BIJLAGE - Programmabegroting 2027 en meerjarenraming 2028-2030](https://laren.bestuurlijkeinformatie.nl/Document/View/46a6915a-9e6a-4064-b268-3f27a62d342c)
 - [B.8 Regio G&V - Reactie op zienswijzen PC stukken](https://laren.bestuurlijkeinformatie.nl/Document/View/b4533a25-a222-46ad-91c3-f045e6071973)
+- [B.9 Regio G&V - informatiebrief Regionale kansenkaart woonzorgopgave en uitnodiging Themabijeenkomst](https://laren.bestuurlijkeinformatie.nl/Document/View/4b5df004-d349-4e90-968f-1fa7f5e63201) *(nieuw)*
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/6019d92b-1ab6-433e-a849-d5b025b380b4)
 - [C.1 Provincie NH – brief over Gemeenschappelijk Financieel Toezichtkader 2026 gemeenten](https://laren.bestuurlijkeinformatie.nl/Document/View/7269e2e5-3001-4174-ab44-1c76b12edafb)
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/15ea9110-e3f2-43fd-9425-0c4509f666c0)
 - [D.1 Inwoners - klacht communicatie en voortgang project reconstructie Eemnesserweg-West](https://laren.bestuurlijkeinformatie.nl/Document/View/6d72ebf6-d595-4a59-afb6-38ec1ecf0b36)
 - [D.2 LB - schriftelijke vragen Artikel Honderden huishoudens in BEL-gemeenten kampen met energiearmoede](https://laren.bestuurlijkeinformatie.nl/Document/View/80f83637-726d-446c-a6dc-f9dead0008d2)
 - [D.3 Inwoner - zorgen over de veiligheid van de Remiseweg](https://laren.bestuurlijkeinformatie.nl/Document/View/2c09344b-722e-44f8-854d-79aec66c5a76)
+- [D.4 VRGV - brief kenbaar maken wensen en bedenkingen oprichting stichting Knooppunt Co&#246;rdinatie Rijk-Regio&#39;s (KCR2)](https://laren.bestuurlijkeinformatie.nl/Document/View/d8d6935a-2b37-4918-a4e0-ad9f25b2b108) *(nieuw)*
+- [D.5 VRGV - aanbiedingsbrief bestuursrapportage 2026 en 1e begrotingswijziging 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/5c6ea716-a210-4be4-95b6-872f88b51795) *(nieuw)*
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/d6134e00-d90b-4482-a08b-6d5cb8fdbebd)
 - [RV Benoeming wethouders in het Algemeen bestuur van de Regio Gooi en Vechtstreek](https://laren.bestuurlijkeinformatie.nl/Document/View/56c3bf72-a898-4570-abec-cffbf9c00bd7)
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/d5eb1ff7-9a66-45ad-a8eb-92574a2113d8)
@@ -82,19 +85,21 @@
 ## Commissie R&I - Agenda laren - Commissie R&I woensdag 16 september 2026 20:00 - 22:00
 [Agenda op het portaal](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/cf0cd507-4e4a-461c-bf42-e0cef30de56a)
 
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/86ee630d-fea6-465b-8e0d-a617885eb1fa) *(nieuw)*
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/a6b09e91-29ed-4436-a831-7efe98c5fe43)
 - [Lijst van adviezen commissie R&I 10 juni 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/95f9ce96-bc36-47d9-8fc1-b92cb2bb908e)
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/04bf04c6-8cb0-4dd7-b772-a8f75477108a) *(nieuw)*
 
 ## Commissie M&F - Agenda laren - Commissie M&F woensdag 23 september 2026 20:00 - 22:00
 [Agenda op het portaal](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/95bd0e23-32ee-4e9b-b6eb-d26297e7f4d8)
 
-- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/2152f70d-5d1d-4fd9-ae16-7344ee9a5d6a) *(nieuw)*
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/2152f70d-5d1d-4fd9-ae16-7344ee9a5d6a)
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/95cd3000-810c-4727-b312-34b5d3195e67)
 - [Lijst van adviezen commissie M&F 1 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/08169af8-f81a-4aad-a31a-580d4d4cde3f)
-- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/69aa01f5-aa5d-4f87-9260-ec5509a2943f) *(nieuw)*
-- [VVD - toelichting verzoek agendering](https://laren.bestuurlijkeinformatie.nl/Document/View/66d41ca7-5668-4edd-9741-6f8f035bfecc) *(nieuw)*
-- [B.3 Regio G&V - Aanbiedingsbrief Jaarverslag Vervoer 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/7e074eba-5dc0-4528-b10e-e03447e34f88) *(nieuw)*
-- [B.3.1 BIJLAGE - Jaarverslag Vervoer G&V 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/1352e9d2-178f-425f-b0d8-6a50f88e1784) *(nieuw)*
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/69aa01f5-aa5d-4f87-9260-ec5509a2943f)
+- [VVD - toelichting verzoek agendering](https://laren.bestuurlijkeinformatie.nl/Document/View/66d41ca7-5668-4edd-9741-6f8f035bfecc)
+- [B.3 Regio G&V - Aanbiedingsbrief Jaarverslag Vervoer 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/7e074eba-5dc0-4528-b10e-e03447e34f88)
+- [B.3.1 BIJLAGE - Jaarverslag Vervoer G&V 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/1352e9d2-178f-425f-b0d8-6a50f88e1784)
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/d5eb1ff7-9a66-45ad-a8eb-92574a2113d8)
 - [RV Vaststelling Integriteitsbeleid BEL Combinatie en BEL-gemeenten 2026-2029](https://laren.bestuurlijkeinformatie.nl/Document/View/538e46b1-fe5c-4bf3-aa4f-539869d7b516)
 - [RB Integriteitsbeleid BEL Combinatie en BEL-gemeenten 2026-2029](https://laren.bestuurlijkeinformatie.nl/Document/View/ad13bfd7-ff4b-42bb-a095-5373bc07d61d)
