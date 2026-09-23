@@ -1,11 +1,11 @@
-# Vergaderstukken Laren - opgehaald op 2026-09-21
+# Vergaderstukken Laren - opgehaald op 2026-09-23
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren woensdag 30 september 2026 20:00 - 22:00
 [Agenda op het portaal](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/b1599b19-828f-4ed0-9b05-1b4aa25271f0)
 
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/e5ed02b7-14ee-45c1-927a-c4cb5bfabadb)
 - [Besluitenlijst openbare raadsvergadering 8 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/b3745ef6-5901-4c64-a990-e3dcda760909)
-- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/e236f318-c033-4620-9709-e46b13e924fa)
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/70bdc4e0-7a35-490a-8905-ed0baf9c7021) *(nieuw)*
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/7c45ef35-ecfd-4328-aa51-25e8890e6194)
 - [A.1 RIB Beoordeling interbestuurlijk toezicht informatie- en archiefbeheer 2024-2025](https://laren.bestuurlijkeinformatie.nl/Document/View/c4cdee5e-bfb8-4456-8dd2-cb8acefc420a)
 - [A.1.1 BIJLAGE - Beoordeling Interbestuurlijk Toezicht Informatie- en Archiefbeheer 2024-2025](https://laren.bestuurlijkeinformatie.nl/Document/View/3078449b-54a2-40a5-9c13-34f140b5d4ff)
@@ -44,6 +44,10 @@
 - [A.20 RIB Milieujaarverslag Laren 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/295d1aeb-c7cc-4f4b-96c7-11c0744f0dd7)
 - [A.20.1 BIJLAGE - Milieujaarverslag Laren 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/5effac92-5363-46e7-9ea7-e726a374946f)
 - [A.20.2 BIJLAGE - Jaarrapportage 2025 Gemeente Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/840f6e54-ee20-4196-bac0-b1b894d54f23)
+- [A.20.3 BIJLAGE - Rapportage metingen Palmes buisjes 2025 (2)](https://laren.bestuurlijkeinformatie.nl/Document/View/2e2ea849-895c-4476-bef5-936aea943971) *(nieuw)*
+- [A.21 RIB jaarrekening 2025 HBEL-taken (maatwerkvoorzieningen) Sociaal Domein Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/1731ccae-b4bd-4093-a1f2-78cf323be390) *(nieuw)*
+- [A.21.1 BIJLAGE - toelichting bij de jaarrekening 2025 HBEL-taken (maatwerkvoorzieningen) Sociaal Domein](https://laren.bestuurlijkeinformatie.nl/Document/View/e66c73d0-9a9f-45f2-852a-1489a5d905fe) *(nieuw)*
+- [A.22 RIB prognose HBEL-taken (maatwerkvoorzieningen) Q2 2026 Sociaal Domein Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/4bedddbe-9283-4a71-a5f1-ee319c077438) *(nieuw)*
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/78914ad5-d53e-471d-b824-3e9ca0ac1a3e)
 - [B.1 MRA - Jaarverslag 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/0f4efb53-9425-46cf-9b0c-779596365544)
 - [B.1.1 BIJLAGE - Nota van Beantwoording Jaarverslag 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/ad656270-bfcf-4128-8e00-d21b684ca2ee)
@@ -83,7 +87,7 @@
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/d5eb1ff7-9a66-45ad-a8eb-92574a2113d8)
 - [RV Vaststelling Integriteitsbeleid BEL Combinatie en BEL-gemeenten 2026-2029](https://laren.bestuurlijkeinformatie.nl/Document/View/538e46b1-fe5c-4bf3-aa4f-539869d7b516)
 - [RB Integriteitsbeleid BEL Combinatie en BEL-gemeenten 2026-2029](https://laren.bestuurlijkeinformatie.nl/Document/View/ad13bfd7-ff4b-42bb-a095-5373bc07d61d)
-- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/15f1c466-079a-4a30-8963-e4d5fc2c919a)
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/445e1b58-cca7-404f-a224-7d9f87fbf889) *(nieuw)*
 - [RV Zienswijze deelname Veiligheidsregio G&V aan stichting KCR2](https://laren.bestuurlijkeinformatie.nl/Document/View/6367ee16-4465-402e-892f-d4de6dd20a2d)
 - [RB Zienswijze deelname Veiligheidsregio G&V aan stichting KCR2](https://laren.bestuurlijkeinformatie.nl/Document/View/9b752edc-321d-4a59-bb80-ce159fac7dbc)
 - [BIJLAGE 1 - aanbiedingsbrief voorgenomen deelname aan stichting KCR2](https://laren.bestuurlijkeinformatie.nl/Document/View/ae6028af-87be-4888-a4db-cfe05a1ab468)
@@ -108,6 +112,7 @@
 ## Commissie M&F - Agenda laren - Commissie M&F woensdag 23 september 2026 20:00 - 22:00
 [Agenda op het portaal](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/95bd0e23-32ee-4e9b-b6eb-d26297e7f4d8)
 
+- [Agenda documenten](https://laren.bestuurlijkeinformatie.nl/Document/View/1a45487c-95e8-4f94-a643-ba97fa328cb6) *(nieuw)*
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/2152f70d-5d1d-4fd9-ae16-7344ee9a5d6a)
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/95cd3000-810c-4727-b312-34b5d3195e67)
 - [Lijst van adviezen commissie M&F 1 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/08169af8-f81a-4aad-a31a-580d4d4cde3f)
@@ -118,7 +123,7 @@
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/d5eb1ff7-9a66-45ad-a8eb-92574a2113d8)
 - [RV Vaststelling Integriteitsbeleid BEL Combinatie en BEL-gemeenten 2026-2029](https://laren.bestuurlijkeinformatie.nl/Document/View/538e46b1-fe5c-4bf3-aa4f-539869d7b516)
 - [RB Integriteitsbeleid BEL Combinatie en BEL-gemeenten 2026-2029](https://laren.bestuurlijkeinformatie.nl/Document/View/ad13bfd7-ff4b-42bb-a095-5373bc07d61d)
-- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/15f1c466-079a-4a30-8963-e4d5fc2c919a)
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/92e4d396-dc18-4484-9ede-dc4970a95c8c) *(nieuw)*
 - [RV Zienswijze deelname Veiligheidsregio G&V aan stichting KCR2](https://laren.bestuurlijkeinformatie.nl/Document/View/6367ee16-4465-402e-892f-d4de6dd20a2d)
 - [RB Zienswijze deelname Veiligheidsregio G&V aan stichting KCR2](https://laren.bestuurlijkeinformatie.nl/Document/View/9b752edc-321d-4a59-bb80-ce159fac7dbc)
 - [BIJLAGE 1 - aanbiedingsbrief voorgenomen deelname aan stichting KCR2](https://laren.bestuurlijkeinformatie.nl/Document/View/ae6028af-87be-4888-a4db-cfe05a1ab468)
