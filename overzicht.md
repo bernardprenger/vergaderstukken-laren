@@ -1,9 +1,9 @@
-# Vergaderstukken Laren - opgehaald op 2026-09-24
+# Vergaderstukken Laren - opgehaald op 2026-09-25
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren woensdag 30 september 2026 20:00 - 22:00
 [Agenda op het portaal](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/b1599b19-828f-4ed0-9b05-1b4aa25271f0)
 
-- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/7e4e425c-944b-4173-8276-dfb758578296) *(nieuw)*
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/7e4e425c-944b-4173-8276-dfb758578296)
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/e5ed02b7-14ee-45c1-927a-c4cb5bfabadb)
 - [Besluitenlijst openbare raadsvergadering 8 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/b3745ef6-5901-4c64-a990-e3dcda760909)
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/70bdc4e0-7a35-490a-8905-ed0baf9c7021)
@@ -117,16 +117,16 @@
 - [VVD - toelichting verzoek agendering](https://laren.bestuurlijkeinformatie.nl/Document/View/66d41ca7-5668-4edd-9741-6f8f035bfecc)
 - [B.3 Regio G&V - Aanbiedingsbrief Jaarverslag Vervoer 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/7e074eba-5dc0-4528-b10e-e03447e34f88)
 - [B.3.1 BIJLAGE - Jaarverslag Vervoer G&V 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/1352e9d2-178f-425f-b0d8-6a50f88e1784)
-- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/ba06f1c5-30d3-434d-adf8-637cd601c9d8) *(nieuw)*
-- [RV Programmabegroting 2027 en meerjarenraming 2028-2030](https://laren.bestuurlijkeinformatie.nl/Document/View/e6302d9a-acf3-46b5-b44f-72be747d6de8) *(nieuw)*
-- [RB Programmabegroting 2027 en meerjarenraming 2028-2030](https://laren.bestuurlijkeinformatie.nl/Document/View/d393928a-186a-41de-89ca-43a237477d99) *(nieuw)*
-- [Bijlage 1 - Programmabegroting 2027](https://laren.bestuurlijkeinformatie.nl/Document/View/953f4b0c-a151-463f-a05e-fdbb53ac8770) *(nieuw)*
-- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/8a00f9f3-b06a-47b6-af07-3905ad004cf9) *(nieuw)*
-- [RV Najaarsnota 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/6c25206a-2d61-4ad6-b870-be608a7ccd25) *(nieuw)*
-- [RB Najaarsnota 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/c3838d90-b35c-485c-8e96-e2ee4788a9f5) *(nieuw)*
-- [Bijlage 1 - Najaarsnota 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/2af3f60b-ce7b-4f33-86e0-87d0a9fe78c6) *(nieuw)*
-- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/092206d6-4e98-463b-8ee5-943c5293717e) *(nieuw)*
-- [RV Wijziging Algemene Plaatselijke Verordening gemeente Laren (APV)](https://laren.bestuurlijkeinformatie.nl/Document/View/58508b5b-f785-44cf-bc27-6a77faa88b94) *(nieuw)*
-- [RB Wijziging Algemene Plaatselijke Verordening gemeente Laren (APV)](https://laren.bestuurlijkeinformatie.nl/Document/View/dc6d9f02-11e8-439a-aaf0-6050945dfc1e) *(nieuw)*
-- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/2baaa0b8-9466-4a3c-9ffb-e3648de5fe7e) *(nieuw)*
-- [RV Toetreding gemeente Eemnes tot GR Gemeentebelastingen Huizen, Blaricum en Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/1622223b-0c34-4fbc-a7f7-52436602a7dd) *(nieuw)*
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/ba06f1c5-30d3-434d-adf8-637cd601c9d8)
+- [RV Programmabegroting 2027 en meerjarenraming 2028-2030](https://laren.bestuurlijkeinformatie.nl/Document/View/e6302d9a-acf3-46b5-b44f-72be747d6de8)
+- [RB Programmabegroting 2027 en meerjarenraming 2028-2030](https://laren.bestuurlijkeinformatie.nl/Document/View/d393928a-186a-41de-89ca-43a237477d99)
+- [Bijlage 1 - Programmabegroting 2027](https://laren.bestuurlijkeinformatie.nl/Document/View/953f4b0c-a151-463f-a05e-fdbb53ac8770)
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/8a00f9f3-b06a-47b6-af07-3905ad004cf9)
+- [RV Najaarsnota 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/6c25206a-2d61-4ad6-b870-be608a7ccd25)
+- [RB Najaarsnota 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/c3838d90-b35c-485c-8e96-e2ee4788a9f5)
+- [Bijlage 1 - Najaarsnota 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/2af3f60b-ce7b-4f33-86e0-87d0a9fe78c6)
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/092206d6-4e98-463b-8ee5-943c5293717e)
+- [RV Wijziging Algemene Plaatselijke Verordening gemeente Laren (APV)](https://laren.bestuurlijkeinformatie.nl/Document/View/58508b5b-f785-44cf-bc27-6a77faa88b94)
+- [RB Wijziging Algemene Plaatselijke Verordening gemeente Laren (APV)](https://laren.bestuurlijkeinformatie.nl/Document/View/dc6d9f02-11e8-439a-aaf0-6050945dfc1e)
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/2baaa0b8-9466-4a3c-9ffb-e3648de5fe7e)
+- [RV Toetreding gemeente Eemnes tot GR Gemeentebelastingen Huizen, Blaricum en Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/1622223b-0c34-4fbc-a7f7-52436602a7dd)
