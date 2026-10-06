@@ -1,23 +1,31 @@
-# Vergaderstukken Laren - opgehaald op 2026-10-05
+# Vergaderstukken Laren - opgehaald op 2026-10-06
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren donderdag 29 oktober 2026 20:00 - 22:00
 [Agenda op het portaal](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/2d966155-c4f1-47a2-a1c2-ee7502e27816)
 
-- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/eba7e276-3d46-4079-ba5d-0562d167bbed) *(nieuw)*
-- [1 RIB Eindverantwoording project Inrichting & Implementatie Key2 - Centric Financi&#xEB;n](https://laren.bestuurlijkeinformatie.nl/Document/View/2fe33cf7-3090-4f8a-92b8-fb9b21cc3505) *(nieuw)*
-- [2 RIB Locatiestudie opvanglocatie asiel](https://laren.bestuurlijkeinformatie.nl/Document/View/81f00d50-df3f-4cc2-8618-a0f19a4b7df6) *(nieuw)*
-- [2.1 BIJLAGE - Samenvatting plan van aanpak locatiestudie asiel](https://laren.bestuurlijkeinformatie.nl/Document/View/0e0efa3a-39ce-4371-abd2-8aed4effeb68) *(nieuw)*
-- [3 RIB Principe-verzoek bouw woningen Torenlaan 64-Co Bremanlaan](https://laren.bestuurlijkeinformatie.nl/Document/View/1eb3312b-77bd-4179-94de-13c8f5ce8f62) *(nieuw)*
-- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/cb752946-9443-48ad-bb50-20cf40897900) *(nieuw)*
-- [1 D66 - schriftelijke vragen Voortgang uitvoeringsplannen Groenbeleidsplan Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/634d2666-c1f8-4a2e-8baa-65713dab34af) *(nieuw)*
-- [1.1 BIJLAGE - RIB Uitvoeringsplannen bij het Groenbeleidsplan Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/33ef3439-cfd9-4887-88c0-fbb5e5c96fab) *(nieuw)*
-- [1.1.1 BIJLAGE - Uitvoeringsplannen Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/a05360d5-9b3e-4791-ba48-05f0252af317) *(nieuw)*
-- [2 D66 - Schriftelijke vragen over Onderzoek zebrapaden](https://laren.bestuurlijkeinformatie.nl/Document/View/db96093f-9265-4159-838e-19e310fe0f76) *(nieuw)*
-- [2.1 BIJLAGE - RIB Verbeteren zebrapaden](https://laren.bestuurlijkeinformatie.nl/Document/View/ab3dfd95-6871-472e-877a-3858f3ef6f4f) *(nieuw)*
-- [2.2 BIJLAGE - Motie veiligheid zebrapaden in Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/50a6ac85-8f2c-483b-91c8-4f64b9520be4) *(nieuw)*
-- [2.3 BIJLAGE - Onderzoek veiligheid zebrapaden Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/fc152d95-b829-4237-9285-b9e100ec5476) *(nieuw)*
-- [3 D66 - Schriftelijke vragen over Netcongestie en beleidsregels Eerder Aanvragen transportcapaciteit](https://laren.bestuurlijkeinformatie.nl/Document/View/70aa7363-1433-4afb-8660-2fe482c4bf7f) *(nieuw)*
-- [3.1 BIJLAGE - RIB Netcongestie en beleidsregels Eerder Aanvragen transportcapaciteit](https://laren.bestuurlijkeinformatie.nl/Document/View/549f3f4c-9c8c-439d-8311-9a8d6c6e8da5) *(nieuw)*
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/f9b440eb-550a-46a8-9de9-e3a8d94d42cf) *(nieuw)*
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/eba7e276-3d46-4079-ba5d-0562d167bbed)
+- [1 RIB Eindverantwoording project Inrichting & Implementatie Key2 - Centric Financi&#xEB;n](https://laren.bestuurlijkeinformatie.nl/Document/View/2fe33cf7-3090-4f8a-92b8-fb9b21cc3505)
+- [2 RIB Locatiestudie opvanglocatie asiel](https://laren.bestuurlijkeinformatie.nl/Document/View/81f00d50-df3f-4cc2-8618-a0f19a4b7df6)
+- [2.1 BIJLAGE - Samenvatting plan van aanpak locatiestudie asiel](https://laren.bestuurlijkeinformatie.nl/Document/View/0e0efa3a-39ce-4371-abd2-8aed4effeb68)
+- [3 RIB Principe-verzoek bouw woningen Torenlaan 64-Co Bremanlaan](https://laren.bestuurlijkeinformatie.nl/Document/View/1eb3312b-77bd-4179-94de-13c8f5ce8f62)
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/fe1cd391-64c1-4633-9dd2-d14c94157e60) *(nieuw)*
+- [1 Rekenkamer BEL - Rapportage Toegang Wmo en Jeugdhulp](https://laren.bestuurlijkeinformatie.nl/Document/View/62038cc3-24e5-42c3-acfa-24f82993bc0a) *(nieuw)*
+- [1.1 BIJLAGE - Bestuurlijk wederhoor Blaricum](https://laren.bestuurlijkeinformatie.nl/Document/View/9b2c0519-9da7-4221-8ab6-07faac5a2687) *(nieuw)*
+- [1.2 BIJLAGE - Bestuurlijk wederhoor Eemnes](https://laren.bestuurlijkeinformatie.nl/Document/View/c5b9124e-efde-4832-97eb-bcf63a16f7ae) *(nieuw)*
+- [1.3 BIJLAGE - Bestuurlijk wederhoor Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/d794d466-fed5-441c-97fa-b866d076ed45) *(nieuw)*
+- [2 Rekenkamer BEL - Rapportage VIBE](https://laren.bestuurlijkeinformatie.nl/Document/View/df59a527-ab8a-4c28-aefb-2cf405571306) *(nieuw)*
+- [2.1 BIJLAGE - Bestuurlijk wederhoor BEL-bestuur](https://laren.bestuurlijkeinformatie.nl/Document/View/1ab05ce7-89da-4c90-a0c4-c27bf7e68996) *(nieuw)*
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/cb752946-9443-48ad-bb50-20cf40897900)
+- [1 D66 - schriftelijke vragen Voortgang uitvoeringsplannen Groenbeleidsplan Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/634d2666-c1f8-4a2e-8baa-65713dab34af)
+- [1.1 BIJLAGE - RIB Uitvoeringsplannen bij het Groenbeleidsplan Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/33ef3439-cfd9-4887-88c0-fbb5e5c96fab)
+- [1.1.1 BIJLAGE - Uitvoeringsplannen Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/a05360d5-9b3e-4791-ba48-05f0252af317)
+- [2 D66 - Schriftelijke vragen over Onderzoek zebrapaden](https://laren.bestuurlijkeinformatie.nl/Document/View/db96093f-9265-4159-838e-19e310fe0f76)
+- [2.1 BIJLAGE - RIB Verbeteren zebrapaden](https://laren.bestuurlijkeinformatie.nl/Document/View/ab3dfd95-6871-472e-877a-3858f3ef6f4f)
+- [2.2 BIJLAGE - Motie veiligheid zebrapaden in Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/50a6ac85-8f2c-483b-91c8-4f64b9520be4)
+- [2.3 BIJLAGE - Onderzoek veiligheid zebrapaden Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/fc152d95-b829-4237-9285-b9e100ec5476)
+- [3 D66 - Schriftelijke vragen over Netcongestie en beleidsregels Eerder Aanvragen transportcapaciteit](https://laren.bestuurlijkeinformatie.nl/Document/View/70aa7363-1433-4afb-8660-2fe482c4bf7f)
+- [3.1 BIJLAGE - RIB Netcongestie en beleidsregels Eerder Aanvragen transportcapaciteit](https://laren.bestuurlijkeinformatie.nl/Document/View/549f3f4c-9c8c-439d-8311-9a8d6c6e8da5)
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/8a00f9f3-b06a-47b6-af07-3905ad004cf9)
 - [RV Najaarsnota 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/6c25206a-2d61-4ad6-b870-be608a7ccd25)
 - [RB Najaarsnota 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/6c29e55f-061f-4dbf-8af2-176dd740b543)
@@ -31,12 +39,15 @@
 ## Commissie R&I - Agenda laren - Commissie R&I woensdag 7 oktober 2026 20:00 - 22:00
 [Agenda op het portaal](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/d0b12091-6641-4e15-88bf-7ec0d963be05)
 
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/7f06fd5b-42b0-490d-b556-04c9ea54ff8b) *(nieuw)*
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/2f28a266-d4df-420a-a350-555fa32deaf1) *(nieuw)*
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/2a7b80ff-ea47-4046-af5c-056b9daa9112)
 - [Lijst van adviezen commissie R&I 16 september 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/6ca52a40-d39f-43bf-bfc8-779d930c22dc)
 
 ## Commissie M&F - Agenda laren - Commissie M&F woensdag 21 oktober 2026 20:00 - 22:00
 [Agenda op het portaal](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/c995e99b-0c01-4d4c-9b9b-2e590929953c)
 
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/3ccdd036-a13a-4e0b-8503-a88a39b692b2) *(nieuw)*
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/d295b94f-95c3-414c-b3c6-ade88ff3e86a)
 - [Lijst van adviezen commissie M&F 23 september 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/ecc576e0-90a0-4dd5-8706-d6392d7b6293)
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/ba06f1c5-30d3-434d-adf8-637cd601c9d8)
@@ -47,9 +58,9 @@
 - [VVD - toelichting verzoek agendering](https://laren.bestuurlijkeinformatie.nl/Document/View/66d41ca7-5668-4edd-9741-6f8f035bfecc)
 - [B.3 Regio G&V - Aanbiedingsbrief Jaarverslag Vervoer 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/7e074eba-5dc0-4528-b10e-e03447e34f88)
 - [B.3.1 BIJLAGE - Jaarverslag Vervoer G&V 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/1352e9d2-178f-425f-b0d8-6a50f88e1784)
-- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/8ce1f878-60ab-45f5-92c3-8b3252c8390c) *(nieuw)*
-- [CDA - toelichting verzoek agendering](https://laren.bestuurlijkeinformatie.nl/Document/View/8c8659fe-5090-4c26-9a12-d27ae4f12a73) *(nieuw)*
-- [A.22 RIB prognose HBEL-taken (maatwerkvoorzieningen) Q2 2026 Sociaal Domein Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/d47cf378-e749-4084-9bf8-dd27947f9568) *(nieuw)*
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/8ce1f878-60ab-45f5-92c3-8b3252c8390c)
+- [CDA - toelichting verzoek agendering](https://laren.bestuurlijkeinformatie.nl/Document/View/8c8659fe-5090-4c26-9a12-d27ae4f12a73)
+- [A.22 RIB prognose HBEL-taken (maatwerkvoorzieningen) Q2 2026 Sociaal Domein Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/d47cf378-e749-4084-9bf8-dd27947f9568)
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/8a00f9f3-b06a-47b6-af07-3905ad004cf9)
 - [RV Najaarsnota 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/6c25206a-2d61-4ad6-b870-be608a7ccd25)
 - [RB Najaarsnota 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/a26c5e58-2e10-4f09-bc0c-3ca71268bc47)
