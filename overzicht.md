@@ -1,21 +1,21 @@
-# Vergaderstukken Laren - opgehaald op 2026-10-06
+# Vergaderstukken Laren - opgehaald op 2026-10-07
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren donderdag 29 oktober 2026 20:00 - 22:00
 [Agenda op het portaal](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/2d966155-c4f1-47a2-a1c2-ee7502e27816)
 
-- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/f9b440eb-550a-46a8-9de9-e3a8d94d42cf) *(nieuw)*
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/b913858f-0a56-497c-b9cc-47f2fbbca58c) *(nieuw)*
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/eba7e276-3d46-4079-ba5d-0562d167bbed)
 - [1 RIB Eindverantwoording project Inrichting & Implementatie Key2 - Centric Financi&#xEB;n](https://laren.bestuurlijkeinformatie.nl/Document/View/2fe33cf7-3090-4f8a-92b8-fb9b21cc3505)
 - [2 RIB Locatiestudie opvanglocatie asiel](https://laren.bestuurlijkeinformatie.nl/Document/View/81f00d50-df3f-4cc2-8618-a0f19a4b7df6)
 - [2.1 BIJLAGE - Samenvatting plan van aanpak locatiestudie asiel](https://laren.bestuurlijkeinformatie.nl/Document/View/0e0efa3a-39ce-4371-abd2-8aed4effeb68)
 - [3 RIB Principe-verzoek bouw woningen Torenlaan 64-Co Bremanlaan](https://laren.bestuurlijkeinformatie.nl/Document/View/1eb3312b-77bd-4179-94de-13c8f5ce8f62)
-- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/fe1cd391-64c1-4633-9dd2-d14c94157e60) *(nieuw)*
-- [1 Rekenkamer BEL - Rapportage Toegang Wmo en Jeugdhulp](https://laren.bestuurlijkeinformatie.nl/Document/View/62038cc3-24e5-42c3-acfa-24f82993bc0a) *(nieuw)*
-- [1.1 BIJLAGE - Bestuurlijk wederhoor Blaricum](https://laren.bestuurlijkeinformatie.nl/Document/View/9b2c0519-9da7-4221-8ab6-07faac5a2687) *(nieuw)*
-- [1.2 BIJLAGE - Bestuurlijk wederhoor Eemnes](https://laren.bestuurlijkeinformatie.nl/Document/View/c5b9124e-efde-4832-97eb-bcf63a16f7ae) *(nieuw)*
-- [1.3 BIJLAGE - Bestuurlijk wederhoor Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/d794d466-fed5-441c-97fa-b866d076ed45) *(nieuw)*
-- [2 Rekenkamer BEL - Rapportage VIBE](https://laren.bestuurlijkeinformatie.nl/Document/View/df59a527-ab8a-4c28-aefb-2cf405571306) *(nieuw)*
-- [2.1 BIJLAGE - Bestuurlijk wederhoor BEL-bestuur](https://laren.bestuurlijkeinformatie.nl/Document/View/1ab05ce7-89da-4c90-a0c4-c27bf7e68996) *(nieuw)*
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/fe1cd391-64c1-4633-9dd2-d14c94157e60)
+- [1 Rekenkamer BEL - Rapportage Toegang Wmo en Jeugdhulp](https://laren.bestuurlijkeinformatie.nl/Document/View/62038cc3-24e5-42c3-acfa-24f82993bc0a)
+- [1.1 BIJLAGE - Bestuurlijk wederhoor Blaricum](https://laren.bestuurlijkeinformatie.nl/Document/View/9b2c0519-9da7-4221-8ab6-07faac5a2687)
+- [1.2 BIJLAGE - Bestuurlijk wederhoor Eemnes](https://laren.bestuurlijkeinformatie.nl/Document/View/c5b9124e-efde-4832-97eb-bcf63a16f7ae)
+- [1.3 BIJLAGE - Bestuurlijk wederhoor Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/d794d466-fed5-441c-97fa-b866d076ed45)
+- [2 Rekenkamer BEL - Rapportage VIBE](https://laren.bestuurlijkeinformatie.nl/Document/View/df59a527-ab8a-4c28-aefb-2cf405571306)
+- [2.1 BIJLAGE - Bestuurlijk wederhoor BEL-bestuur](https://laren.bestuurlijkeinformatie.nl/Document/View/1ab05ce7-89da-4c90-a0c4-c27bf7e68996)
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/cb752946-9443-48ad-bb50-20cf40897900)
 - [1 D66 - schriftelijke vragen Voortgang uitvoeringsplannen Groenbeleidsplan Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/634d2666-c1f8-4a2e-8baa-65713dab34af)
 - [1.1 BIJLAGE - RIB Uitvoeringsplannen bij het Groenbeleidsplan Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/33ef3439-cfd9-4887-88c0-fbb5e5c96fab)
@@ -39,15 +39,17 @@
 ## Commissie R&I - Agenda laren - Commissie R&I woensdag 7 oktober 2026 20:00 - 22:00
 [Agenda op het portaal](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/d0b12091-6641-4e15-88bf-7ec0d963be05)
 
-- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/7f06fd5b-42b0-490d-b556-04c9ea54ff8b) *(nieuw)*
-- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/2f28a266-d4df-420a-a350-555fa32deaf1) *(nieuw)*
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/7f06fd5b-42b0-490d-b556-04c9ea54ff8b)
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/2f28a266-d4df-420a-a350-555fa32deaf1)
+- [Presentatie Mooisticht](https://laren.bestuurlijkeinformatie.nl/Document/View/c8a84aac-7591-4a3a-a36b-98e76f163089) *(nieuw)*
+- [Mooisticht - BEL-commissie voor ruimtelijke kwaliteit over de jaren 2023 &#x2013; 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/9178f445-cfe5-4021-a85c-773abd5157ed) *(nieuw)*
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/2a7b80ff-ea47-4046-af5c-056b9daa9112)
 - [Lijst van adviezen commissie R&I 16 september 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/6ca52a40-d39f-43bf-bfc8-779d930c22dc)
 
 ## Commissie M&F - Agenda laren - Commissie M&F woensdag 21 oktober 2026 20:00 - 22:00
 [Agenda op het portaal](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/c995e99b-0c01-4d4c-9b9b-2e590929953c)
 
-- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/3ccdd036-a13a-4e0b-8503-a88a39b692b2) *(nieuw)*
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/3ccdd036-a13a-4e0b-8503-a88a39b692b2)
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/d295b94f-95c3-414c-b3c6-ade88ff3e86a)
 - [Lijst van adviezen commissie M&F 23 september 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/ecc576e0-90a0-4dd5-8706-d6392d7b6293)
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/ba06f1c5-30d3-434d-adf8-637cd601c9d8)
