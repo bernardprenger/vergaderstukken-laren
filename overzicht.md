@@ -1,9 +1,9 @@
-# Vergaderstukken Laren - opgehaald op 2026-10-08
+# Vergaderstukken Laren - opgehaald op 2026-10-09
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren donderdag 29 oktober 2026 20:00 - 22:00
 [Agenda op het portaal](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/2d966155-c4f1-47a2-a1c2-ee7502e27816)
 
-- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/b913858f-0a56-497c-b9cc-47f2fbbca58c)
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/a64723d0-96b8-4093-85c1-009377ac36e0) *(nieuw)*
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/eba7e276-3d46-4079-ba5d-0562d167bbed)
 - [1 RIB Eindverantwoording project Inrichting & Implementatie Key2 - Centric Financi&#xEB;n](https://laren.bestuurlijkeinformatie.nl/Document/View/2fe33cf7-3090-4f8a-92b8-fb9b21cc3505)
 - [2 RIB Locatiestudie opvanglocatie asiel](https://laren.bestuurlijkeinformatie.nl/Document/View/81f00d50-df3f-4cc2-8618-a0f19a4b7df6)
@@ -16,6 +16,9 @@
 - [1.3 BIJLAGE - Bestuurlijk wederhoor Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/d794d466-fed5-441c-97fa-b866d076ed45)
 - [2 Rekenkamer BEL - Rapportage VIBE](https://laren.bestuurlijkeinformatie.nl/Document/View/df59a527-ab8a-4c28-aefb-2cf405571306)
 - [2.1 BIJLAGE - Bestuurlijk wederhoor BEL-bestuur](https://laren.bestuurlijkeinformatie.nl/Document/View/1ab05ce7-89da-4c90-a0c4-c27bf7e68996)
+- [3 Rekenkamer BEL - Jaarverslag 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/15fcdbfb-ed62-43c9-82e6-11a22a92a952) *(nieuw)*
+- [4 Regio G&V - informatiebrief Ruimtelijke opgaven G&V en terugkoppeling BO Leefomgeving Rijk](https://laren.bestuurlijkeinformatie.nl/Document/View/375efa26-eedb-4c16-9572-0708044ba229) *(nieuw)*
+- [4.1 BIJLAGE - Brief aan de Tweede Kamer vanuit het Rijk](https://laren.bestuurlijkeinformatie.nl/Document/View/23e4e573-67ac-426b-9185-3b511d79e32e) *(nieuw)*
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/cb752946-9443-48ad-bb50-20cf40897900)
 - [1 D66 - schriftelijke vragen Voortgang uitvoeringsplannen Groenbeleidsplan Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/634d2666-c1f8-4a2e-8baa-65713dab34af)
 - [1.1 BIJLAGE - RIB Uitvoeringsplannen bij het Groenbeleidsplan Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/33ef3439-cfd9-4887-88c0-fbb5e5c96fab)
