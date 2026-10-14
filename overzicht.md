@@ -1,9 +1,9 @@
-# Vergaderstukken Laren - opgehaald op 2026-10-13
+# Vergaderstukken Laren - opgehaald op 2026-10-14
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren donderdag 29 oktober 2026 20:00 - 22:00
 [Agenda op het portaal](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/2d966155-c4f1-47a2-a1c2-ee7502e27816)
 
-- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/13262055-54e0-45d4-8d11-3e87cb8bca29) *(nieuw)*
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/13262055-54e0-45d4-8d11-3e87cb8bca29)
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/eba7e276-3d46-4079-ba5d-0562d167bbed)
 - [1 RIB Eindverantwoording project Inrichting & Implementatie Key2 - Centric Financi&#xEB;n](https://laren.bestuurlijkeinformatie.nl/Document/View/2fe33cf7-3090-4f8a-92b8-fb9b21cc3505)
 - [2 RIB Locatiestudie opvanglocatie asiel](https://laren.bestuurlijkeinformatie.nl/Document/View/81f00d50-df3f-4cc2-8618-a0f19a4b7df6)
@@ -20,9 +20,9 @@
 - [4 Regio G&V - informatiebrief Ruimtelijke opgaven G&V en terugkoppeling BO Leefomgeving Rijk](https://laren.bestuurlijkeinformatie.nl/Document/View/375efa26-eedb-4c16-9572-0708044ba229)
 - [4.1 BIJLAGE - Brief aan de Tweede Kamer vanuit het Rijk](https://laren.bestuurlijkeinformatie.nl/Document/View/23e4e573-67ac-426b-9185-3b511d79e32e)
 - [4.2 BIJLAGE - BO Leefomgeving dossier landsdeel Noordwest Nederland](https://laren.bestuurlijkeinformatie.nl/Document/View/6f0cfb3a-51f3-4576-bad2-6e8645bac14b)
-- [5 Tomingroep - Reactie AB op zienswijze en definitief besluit](https://laren.bestuurlijkeinformatie.nl/Document/View/7cbd750c-0a09-484b-9b53-2021ec62b869) *(nieuw)*
-- [7 VRGV - informatiebrief Terugkoppeling vergadering AB 7 oktober 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/8aa759d3-12da-4c82-8fc8-06afda6ae601) *(nieuw)*
-- [8 Regio G&V - informatiebrief Landelijke noodklok Veilig Thuis](https://laren.bestuurlijkeinformatie.nl/Document/View/d9b8e446-2257-49d0-bfe1-1a57da080a94) *(nieuw)*
+- [5 Tomingroep - Reactie AB op zienswijze en definitief besluit](https://laren.bestuurlijkeinformatie.nl/Document/View/7cbd750c-0a09-484b-9b53-2021ec62b869)
+- [7 VRGV - informatiebrief Terugkoppeling vergadering AB 7 oktober 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/8aa759d3-12da-4c82-8fc8-06afda6ae601)
+- [8 Regio G&V - informatiebrief Landelijke noodklok Veilig Thuis](https://laren.bestuurlijkeinformatie.nl/Document/View/d9b8e446-2257-49d0-bfe1-1a57da080a94)
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/cb752946-9443-48ad-bb50-20cf40897900)
 - [1 D66 - schriftelijke vragen Voortgang uitvoeringsplannen Groenbeleidsplan Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/634d2666-c1f8-4a2e-8baa-65713dab34af)
 - [1.1 BIJLAGE - RIB Uitvoeringsplannen bij het Groenbeleidsplan Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/33ef3439-cfd9-4887-88c0-fbb5e5c96fab)
