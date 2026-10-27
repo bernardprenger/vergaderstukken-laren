@@ -1,9 +1,10 @@
-# Vergaderstukken Laren - opgehaald op 2026-10-26
+# Vergaderstukken Laren - opgehaald op 2026-10-27
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren donderdag 29 oktober 2026 20:00 - 22:00
 [Agenda op het portaal](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/2d966155-c4f1-47a2-a1c2-ee7502e27816)
 
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/0523bb75-871f-4cc9-97bb-673833980478)
+- [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/936339af-86d2-4f60-965c-7cd9c5772473) *(nieuw)*
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/13262055-54e0-45d4-8d11-3e87cb8bca29)
 - [Bijlagen](https://laren.bestuurlijkeinformatie.nl/Document/View/eba7e276-3d46-4079-ba5d-0562d167bbed)
 - [1 RIB Eindverantwoording project Inrichting & Implementatie Key2 - Centric Financi&#xEB;n](https://laren.bestuurlijkeinformatie.nl/Document/View/2fe33cf7-3090-4f8a-92b8-fb9b21cc3505)
