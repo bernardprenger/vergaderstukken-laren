@@ -1,4 +1,4 @@
-# Vergaderstukken Laren - opgehaald op 2026-11-18
+# Vergaderstukken Laren - opgehaald op 2026-11-19
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren woensdag 25 november 2026 20:00 - 22:00
 [Agenda op het portaal](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/b92dd487-b465-4aa5-b32f-0f6d78c9cdd1)
@@ -10,7 +10,7 @@ Nog geen documenten gepubliceerd.
 
 Nog geen documenten gepubliceerd.
 
-## Commissie M&F - Agenda laren - Commissie M&F woensdag 18 november 2026 20:00 - 22:00
-[Agenda op het portaal](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/8068c47e-1ba4-446a-904a-ce9e28774a61)
+## Commissie M&F - Agenda laren - Commissie M&F woensdag 9 december 2026 20:00 - 22:00
+[Agenda op het portaal](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/aee310c1-3f0a-43cf-8089-6adfd833e6d0)
 
 Nog geen documenten gepubliceerd.
