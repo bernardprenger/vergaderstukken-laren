@@ -1,7 +1,7 @@
-# Vergaderstukken Laren - opgehaald op 2026-11-25
+# Vergaderstukken Laren - opgehaald op 2026-11-26
 
-## Raadsvergadering - Agenda laren - Raadsvergadering Laren woensdag 25 november 2026 20:00 - 22:00
-[Agenda op het portaal](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/b92dd487-b465-4aa5-b32f-0f6d78c9cdd1)
+## Raadsvergadering - Agenda laren - Raadsvergadering Laren woensdag 16 december 2026 20:00 - 22:00
+[Agenda op het portaal](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/527bbddc-a0bb-4ad2-a804-2a0a01ba619e)
 
 Nog geen documenten gepubliceerd.
 
